@@ -1,3 +1,7 @@
 body {
   background-color: yellow;
 }
+
+img{
+  border-radius: 50%;
+}
